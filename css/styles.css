@@ -1,0 +1,32 @@
+.bg {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: blanchedalmond;
+}
+
+.title, .li {
+    border: black;
+    border-width: 1px;
+    border-style: ridge;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.title {
+    background-color:lavender;
+    width: 50%;
+}
+
+.li {
+    background-color: lightcyan;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}
